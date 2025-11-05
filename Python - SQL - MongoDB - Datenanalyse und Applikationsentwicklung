@@ -1,1 +1,0 @@
-Entwicklung eines interaktiven Tools für Datenabfragen an die MySQL-Datenbank Sakila mit gleichzeitiger Protokollierung der Nutzeraktivitäten in MongoDB. Implementierung von Filterfunktionen, Paging der Suchergebnisse und Anzeige relevanter Filmmetriken.
