@@ -6,7 +6,7 @@ This repository contains a collection of my data analytics projects, showcasing 
 
 ## Python Project
 
-All Python scripts (upyter notebooks) are located in the `main` folder.  
+All Python scripts (Jupyter notebooks) are located in the `main` folder.  
 This project includes data processing, analysis, and automation scripts demonstrating practical Python programming skills.
 
 ---
