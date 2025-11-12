@@ -4,10 +4,13 @@ This repository contains a collection of my data analytics projects, showcasing 
 
 ---
 
-## Python Project
+## Python Projects
 
 All Python scripts (Jupyter notebooks) are located in the `main` folder.  
-This project includes data processing, analysis, and automation scripts demonstrating practical Python programming skills.
+
+The project "Python_FilmSearch" includes data processing, analysis, and automation scripts demonstrating practical Python programming skills.
+The file settings_bot.py containing sensitive information (such as tokens) is not included in the repository for security reasons.
+To run the project, create this file manually in the project root and add the required variables (TOKEN = "your_token").
 
 ---
 
