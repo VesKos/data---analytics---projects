@@ -21,7 +21,7 @@ You can explore the interactive dashboards using the following links:
 
 - [Power BI Report Sales](https://drive.google.com/file/d/1B2qx9VDC1q3oHFzsmp5odpBnC3Bfnjjt/view?usp=sharing)
 - [Power BI Report_Forbes 2025](https://drive.google.com/file/d/1xczAx--06lJwL2pb_eVHfGGcQJ4M1-uy/view?usp=sharing)
-- [Tableau Dashboard Flights](https://public.tableau.com/shared/DF8CTFGJY?:display_count=n&:origin=viz_share_link)
+- [Tableau Dashboard Flights](https://public.tableau.com/shared/TGF5K8C9P?:display_count=n&:origin=viz_share_link)
 - [Google Sheets Clinic performance evaluation](https://docs.google.com/spreadsheets/d/1FFL6Yh3vR3niRdwH6FJxPIThAHHnJnRK5cVhs2iTrgw/edit?usp=sharing)
 
 ---
