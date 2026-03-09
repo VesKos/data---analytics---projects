@@ -94,7 +94,7 @@ All Power BI and Tableau dashboards are fully interactive.
 ### Tableau
 
 ✈️ **Flights Dashboard**  
-🔗[View on Tableau Public](https://public.tableau.com/shared/TGF5K8C9P?:display_count=n&:origin=viz_share_link)
+🔗[View on Tableau Public](https://lnkd.in/eapR3GWU)
 
 ---
 
