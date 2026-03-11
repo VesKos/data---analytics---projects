@@ -97,7 +97,7 @@ All Power BI and Tableau dashboards are fully interactive.
 🔗[View on Tableau Public](https://lnkd.in/eapR3GWU)
 
 👥 **Customer Retention & Cohort Revenue Analysis**  
-🔗[View on Google Drive](https://public.tableau.com/views/CustomerRetentionCohortRevenueAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗[View on Tableau Public](https://public.tableau.com/views/CustomerRetentionCohortRevenueAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
