@@ -1,40 +1,94 @@
-# E-commerce Cohort Analysis
-
-This project explores customer behavior in an e-commerce dataset using **cohort analysis**.  
-The main goal was to understand how customer groups behave over time after their first purchase, with a focus on **retention**, **repeat purchases**, and **cohort revenue contribution**.
-
-The data was prepared and cleaned in **Python**, while the final interactive dashboard was built in **Tableau**.
+# 📊 Customer Retention & Cohort Revenue Analysis
 
 ## Project Overview
+This project analyzes customer behavior in an e-commerce dataset using cohort analysis.  
+The goal is to understand how customers behave after their first purchase and how different cohorts contribute to revenue over time.
 
-Cohort analysis is widely used in product and customer analytics because it helps answer questions such as:
+The dataset was cleaned and prepared in **Python**, and the results were visualized in **Tableau**.
 
-- Do customers return after their first purchase?
-- How quickly does retention decline over time?
-- Which cohorts contribute most to long-term revenue?
-- Is revenue growth driven by new or existing customers?
+---
 
-In this project, customers were grouped by their **first purchase month**, and their behavior was tracked across subsequent months.
+## 🛠 Tools Used
 
-## Dataset
+- Python (pandas, numpy)
+- Tableau
 
-The project uses the **Online Retail** dataset, which contains transactional data from an e-commerce business.
+---
 
-Typical fields include:
+## 📦 Dataset
 
-- `Invoice`
-- `StockCode`
-- `Description`
-- `Quantity`
-- `InvoiceDate`
-- `Price`
-- `Customer ID`
-- `Country`
+Online Retail dataset containing transactional data from an e-commerce business.
 
-## Tools Used
+Main fields include:
+- Invoice
+- Quantity
+- Price
+- InvoiceDate
+- Customer ID
+- Country
 
-- **Python**
-  - pandas
-  - numpy
-- **Tableau**
-- **GitHub**
+---
+
+## 🧹 Data Preparation (Python)
+
+The dataset was cleaned and transformed using Python before being used in the visualization.
+
+Main steps:
+
+- removing cancelled orders
+- filtering invalid quantities and prices
+- handling missing customer IDs
+- creating a revenue column
+- generating cohort features
+
+Key cohort fields created:
+
+- `cohort_month`
+- `order_month`
+- `cohort_index`
+
+---
+
+## 📊 Dashboard Overview
+
+The interactive Tableau dashboard includes:
+
+### KPI Metrics
+- Total Revenue
+- Total Customers
+- ARPU
+- Repeat Purchase Rate
+- Month-1 Retention
+
+### Visualizations
+- Cohort Revenue Chart
+- Customer Retention Heatmap
+- Cohort Size Analysis
+- Geographic Revenue Map
+
+The dashboard includes filters that allow the analysis to be explored by:
+
+- Country
+- Order Period
+- Cohort Month
+
+---
+
+## 🔎 Key Insights
+
+Some interesting patterns observed:
+
+- Retention drops significantly after the first month.
+- Revenue growth is largely driven by newly acquired customer cohorts.
+- Customer behavior varies across different countries.
+
+---
+
+## 📈 Interactive Dashboard
+
+Tableau Public dashboard:
+
+👉 [[Insert Tableau link here](https://public.tableau.com/app/profile/vesna.kostrewa/viz/CustomerRetentionCohortRevenueAnalysis/Dashboard1)]
+
+---
+
