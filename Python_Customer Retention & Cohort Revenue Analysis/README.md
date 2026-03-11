@@ -88,7 +88,7 @@ Some interesting patterns observed:
 
 Tableau Public dashboard:
 
-👉 [[Insert Tableau link here](https://public.tableau.com/app/profile/vesna.kostrewa/viz/CustomerRetentionCohortRevenueAnalysis/Dashboard1)]
+👉 [[Tableau link](https://public.tableau.com/app/profile/vesna.kostrewa/viz/CustomerRetentionCohortRevenueAnalysis/Dashboard1)]
 
 ---
 
